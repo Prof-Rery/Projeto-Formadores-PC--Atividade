@@ -1,4 +1,4 @@
-body {background-color: rgba(0, 0, 255, 0.1);}
+body {background-color: #88db88;}
 
 #titulo {
   text-align: center;
@@ -8,5 +8,5 @@ body {background-color: rgba(0, 0, 255, 0.1);}
 .texto {
   text-align: center;
   font-size: 20 px;
-  color: #441ec0;
+  color: black;
 }
